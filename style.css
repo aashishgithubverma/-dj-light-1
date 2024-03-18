@@ -1,0 +1,30 @@
+b{
+    color: green;
+}
+
+
+.btn1{
+    margin: 20px;
+    color: green;
+    border-radius: 10px;
+    margin-left: 150px;
+}
+
+.btn2{
+    color: brown;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+
+audio{
+    background-color: transparent;
+    margin-left: 120px;
+}
+
+
+.btn{
+    width: 60px;
+    height : 60px
+    
+}
+
